@@ -2,7 +2,7 @@
 
 # Simple Bash Script: Website Availability Checker
 
-URL="https://www.chiamaka.com"
+URL="https://www.iyy.com"
 
 echo "Checking website: $URL"
 
